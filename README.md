@@ -2,7 +2,7 @@
 
 [Google Colab - Python](https://colab.research.google.com)
 
-[Test function 3 C](https://github.com/STU-FEI-OUI/UMINT-GA/blob/main/Kod/testfn3c.py)
+[Test function 3]( https://github.com/STU-FEI-OUI/UI2-GA/blob/main/kod/testfn3.py  )
 
 [Jupyter Notebook template](https://github.com/STU-FEI-OUI/UMINT-GA/blob/main/Kod/UMINT_BLOK_1.ipynb)
 
