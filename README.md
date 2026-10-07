@@ -10,13 +10,15 @@
 
 # Zadania
 
-* [ZADANIE Č.1: Genetický algoritmus – Hľadanie globálneho minima](/Zadania/ui2_zad1.pdf)
+* [ZADANIE Č.1: Genetický algoritmus – Hľadanie globálneho minima](./zadania/ui2_zad1.pdf)
 
-* [ZADANIE Č.2](/Zadania/ui2_zad2.pdf)
+* [ZADANIE Č.2](./zadania/ui2_zad2.pdf)
 
-* [ZADANIE Č.3](/Zadania/ui2_zad3.pdf)
+* [ZADANIE Č.3](./zadania/ui2_zad3.pdf)
 
-* [ZADANIE Č.4](/Zadania/ui2_zad4.pdf)
+* [ZADANIE Č.4](./zadania/ui2_zad4.pdf)
+
+* [ZADANIE Č.5](./zadania/ui2_zad5.pdf)
 
 # Result
 
