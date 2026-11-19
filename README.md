@@ -26,6 +26,8 @@
 
 * [ZADANIE Č.8: Návrh robustného PID regulátora](./zadania/ui2_zad8.pdf)
 
+* [ZADANIE Č.9](./zadania/ui2_zad9.pdf) ([kód uhly2xyz.py](./kod/uhly2xyz.py))
+
 # Result
 
 ## Zad. 1
